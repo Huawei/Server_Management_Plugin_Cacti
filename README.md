@@ -6,7 +6,7 @@ Cacti Plugin for Huawei Device
 I. General Information
 
     Name   :  Cacti Plugin for Huawei Device
-    Version:  1.0
+    Version:  1.1
 
 II. Description
 
@@ -19,8 +19,8 @@ III.Supported software versions
 IV.Supported Device
 
 	Huawei Blade Server: E9000
-	Huawei Rack  Server: RH1288 V3, RH2288H V2, RH2288 V3, RH2288H V3，RH1288H V5,RH2288H V5,RH2488 V5
-	Huawei High-density Server:  X6000, X6800
+	Huawei Rack  Server: RH2288H V2,RH1288 V3,RH2288 V3, RH2288H V3,RH5885 V3,RH8100 V3,1288H V5,2288H V5,2488 V5
+	Huawei High-density Server:  XH321 V3,XH620 V3,XH622 V3,XH628 V3,XH321 V5
 
 V. Additional Resources
 
