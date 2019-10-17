@@ -74,7 +74,7 @@ $hs_display_lables = array(
             "bios_ver" => 0,
             //"vlan_setting" => 0,
             //"manufacturer" => 0,
-            //"sn" => 0, //58.251.166.177 has this item
+            //"sn" => 0, //192.168.0.1 has this item
 
             //"import_status" => 0, //manual display
             //"last_update" => "Info Last Update Time"
